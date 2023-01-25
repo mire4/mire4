@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mireia</h1>
-<h3 align="center">A computer science student 👩‍💻</h3>
+
+<h3 align="center">Overview</h3>
+
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mire4&show_icons=true&locale=en" alt="mire4" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -26,7 +29,3 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mire4&show_icons=true&locale=en&layout=compact" alt="mire4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mire4&show_icons=true&locale=en" alt="mire4" /></p>
