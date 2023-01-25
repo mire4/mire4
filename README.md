@@ -1,18 +1,38 @@
 <h1 align="center">Hi 👋, I'm Mireia</h1>
 
-🔭 I’m currently working on uploading subjects from computer science degree.
-<details>
-<summary>Fourth year</summary>
-  <ul>
-    <li><a href="https://github.com/mire4/Practicas-TIA.git"> TIA</a></li>
-  </ul>
- </details>
+🔭 I’m currently working on uploading subjects from computer science degree. You can check them in the following links:
+<dl>
+  <details><summary>Subjects</summary>
+    <p>
+    <dd><details><summary>Third year</summary>
+          <p><dl>
+            <dd>AIN</dd>
+            <dd>CMC</dd>
+            <dd>GPR</dd>
+            <dd>PER</dd>
+            <dd>SAR</dd>
+            <dd>TOP</dd>
+          </p></dl>
+    </details></dd>
+    <dd><details><summary>Fourth year</summary>
+          <p><dl>
+            <dd><a href="https://github.com/mire4/ALT_project.git"> Proyecto conjunto SAR - ALT</a></dd>
+            <dd><a href="https://github.com/mire4/Practicas-ALT.git"> ALT</a></dd>
+            <dd><a href="https://github.com/mire4/Practicas-APR.git"> APR</a></dd>
+            <dd><a href="https://github.com/mire4/Practicas-LPPL.git"> LPPL</a></dd>
+            <dd><a href="https://github.com/mire4/Practicas-SGI.git"> SGI</a></dd>
+            <dd><a href="https://github.com/mire4/Practicas-TIA.git"> TIA</a></dd>
+          </p></dl>
+    </details></dd>
+    </p>
+  </details>
+</dl>
 
 <h3 align="center">Overview</h3>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mire4&show_icons=true&locale=en" alt="mire4" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
