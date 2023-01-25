@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mireia</h1>
 
-<h3 align="center">Overview</h3>
+🔭 I’m currently working on uploading subjects from computer science degree.
+- Forth year:
+[TIA](https://github.com/mire4/Practicas-TIA.git)
 
+<h3 align="center">Overview</h3>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mire4&show_icons=true&locale=en" alt="mire4" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
